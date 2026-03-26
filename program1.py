@@ -6,7 +6,7 @@ while n > 0:
     n = n // 10
 
 sum_str = str(sum_digits)
-121
+
 
 if sum_str == sum_str[::-1]:
     print("Sum is Palindrome")
